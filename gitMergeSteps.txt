@@ -1,0 +1,6 @@
+Steps for merging:
+
+1)check out master branch -git checkout master
+2)pull all the relavent changes from master-git pull
+3)merging master with local branch-git merge branchname
+4)pushing the whole package to master -git push origin master
