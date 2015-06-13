@@ -9,7 +9,7 @@ void multidimensionalArrayFunc()
 	{
 		for (int j = 0; j < sizeof(arr)/ 8; j++)
 		{
-			printf("::::::::::::value inside pointer %d, %d:::::::::::%d\n",i,j,*(*(p+i)+j));
+			printf(":::::::::::::::::value inside pointer %d, %d:::::::::::%d\n",i,j,*(*(p+i)+j));
 		}
 	}
 	
