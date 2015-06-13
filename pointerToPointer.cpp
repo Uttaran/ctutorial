@@ -27,7 +27,7 @@ void pointertoPointerMethod()
 
 	printf("::::::::::::::::::::::Lets have a experiment with dereferencing:::::::::::::::::::::::::");
 		 ***r=**q + 3;
-		 printf("After dereferencing value of the integer and pointer:::::::\n");
+		 printf("After dereferencing value of the integer and pointer let see what is the value now ::::::: \n");
 		 printf("value of integer %d\n", variableinteger);
 		 printf("1 st pointer refer to value %d\n", *p);
 		 printf("2 nd  pointer refer to value %d\n", **q);
