@@ -2,7 +2,7 @@
 #include<conio.h>
 void funcCharacterArray()
 {
-	printf("::::::::lets have some fun with Character Array:::::::::::\n");
+	printf("::::::::lets have some fun with Character Array:::::::::::\n");i
 
 
 
