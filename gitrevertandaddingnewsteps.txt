@@ -1,0 +1,11 @@
+1)git checkout branchno filename-will checkout the required file version from repo
+2)modify the file
+3)git checkout -b newbranchname
+4)git add .
+5)git commit -m "message"
+6)git checkout master
+7)git pull
+8)git merge origin newbranchname
+9)git push origin master
+
+all the steps added after revertng back to old  file will be added to the master
